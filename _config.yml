@@ -1,7 +1,7 @@
 # Site settings
 title: Amy Sang & Daniel
 SEOTitle: Amy Sang和Daniel的博客
-header-img: img/home-bg.jpg
+header-img: img/th (1).jfif
 email: admin@amysang.com
 description: "这里是 @AmySang 的个人博客，与你一起发现更大的世界"
 keyword: "Amy Sang"
@@ -87,7 +87,7 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 # MathJax rendering for layout:page (e.g. post preview)
-page-mathjax: false
+page-mathjax: true
 
 # Friends
 friends:
