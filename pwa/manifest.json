@@ -3,9 +3,9 @@
   "short_name": "Amy Sang & Daniel Blog",
   "description": "Love Blog",
   "icons": [{
-    "src": "icons/128.png",
+    "src": "img/images.ico",
     "sizes": "128x128",
-    "type": "image/png"
+    "type": "image/icon"
   },
   "background_color": "#fff",
   "theme_color": "#000",
